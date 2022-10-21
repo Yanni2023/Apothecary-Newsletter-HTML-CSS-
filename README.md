@@ -1,1 +1,2 @@
-# Apothecary-Newsletter-HTML-CSS-
+# NPB-HTML-CSS-Email-Newsletter-
+Email Newsletter Template 
